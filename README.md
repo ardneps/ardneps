@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my GitHub profile!
+### Hello there 👋 Welcome to my GitHub profile!
 
 - I'm currently learning Python
 - and looking to collaborate on any TypeScript/JavaScript project.
